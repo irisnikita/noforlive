@@ -1,0 +1,6 @@
+C:\Users\truong vi\Downloads\NMCNPM-Duy\Code\DTO\bin\Debug\DTO.dll
+C:\Users\truong vi\Downloads\NMCNPM-Duy\Code\DTO\bin\Debug\DTO.pdb
+C:\Users\truong vi\Downloads\NMCNPM-Duy\Code\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\truong vi\Downloads\NMCNPM-Duy\Code\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\truong vi\Downloads\NMCNPM-Duy\Code\DTO\obj\Debug\DTO.dll
+C:\Users\truong vi\Downloads\NMCNPM-Duy\Code\DTO\obj\Debug\DTO.pdb

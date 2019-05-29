@@ -1,0 +1,8 @@
+C:\Users\truong vi\Downloads\NMCNPM-Duy\Code\DAL\bin\Debug\DAL.dll
+C:\Users\truong vi\Downloads\NMCNPM-Duy\Code\DAL\bin\Debug\DAL.pdb
+C:\Users\truong vi\Downloads\NMCNPM-Duy\Code\DAL\bin\Debug\DTO.dll
+C:\Users\truong vi\Downloads\NMCNPM-Duy\Code\DAL\bin\Debug\DTO.pdb
+C:\Users\truong vi\Downloads\NMCNPM-Duy\Code\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\truong vi\Downloads\NMCNPM-Duy\Code\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\truong vi\Downloads\NMCNPM-Duy\Code\DAL\obj\Debug\DAL.dll
+C:\Users\truong vi\Downloads\NMCNPM-Duy\Code\DAL\obj\Debug\DAL.pdb

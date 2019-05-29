@@ -1,0 +1,10 @@
+C:\Users\truong vi\Downloads\NMCNPM-Duy\Code\BLL\bin\Debug\BLL.dll
+C:\Users\truong vi\Downloads\NMCNPM-Duy\Code\BLL\bin\Debug\BLL.pdb
+C:\Users\truong vi\Downloads\NMCNPM-Duy\Code\BLL\bin\Debug\DAL.dll
+C:\Users\truong vi\Downloads\NMCNPM-Duy\Code\BLL\bin\Debug\DTO.dll
+C:\Users\truong vi\Downloads\NMCNPM-Duy\Code\BLL\bin\Debug\DAL.pdb
+C:\Users\truong vi\Downloads\NMCNPM-Duy\Code\BLL\bin\Debug\DTO.pdb
+C:\Users\truong vi\Downloads\NMCNPM-Duy\Code\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\truong vi\Downloads\NMCNPM-Duy\Code\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\truong vi\Downloads\NMCNPM-Duy\Code\BLL\obj\Debug\BLL.dll
+C:\Users\truong vi\Downloads\NMCNPM-Duy\Code\BLL\obj\Debug\BLL.pdb
